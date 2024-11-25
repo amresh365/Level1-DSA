@@ -2,7 +2,7 @@ package recursion2;
 
 import java.util.Scanner;
 
-public class FindSubsequence {
+public class returnSubsequence {
 	public static String[] findSubSequence(String str)
 	{
 		if(str.length()==0)
@@ -16,7 +16,7 @@ public class FindSubsequence {
 		for(int i=0;i<smallAns.length;i++)
 		{
 			ans[k]=smallAns[i];
-			k++;
+			k++;     
 		}
 		for(int i=0;i<smallAns.length;i++)
 		{
