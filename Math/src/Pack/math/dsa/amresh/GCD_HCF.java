@@ -11,7 +11,6 @@ public class GCD_HCF {
 			if(n1%i==0&&n2%i==0)
 			{
 				ans=i;
-				
 			}
 			
 		}
@@ -36,7 +35,7 @@ public static void main(String[] args) {
 	System.out.println("Enter the number");
 	int n2=sc.nextInt();
 	
-//	gcd1(n1,n2);
+    //gcd1(n1,n2);
 	gcd2(n1,n2);
 	
 	

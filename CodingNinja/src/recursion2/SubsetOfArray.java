@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;  
 import java.util.Scanner;  
 
-public class ReturnSubsetOfArray {  
+public class SubsetOfArray {  
     public static List<List<Integer>> out = new ArrayList<>();  
     public static void findSubset(int arr[], List<Integer> ans, int index) {  
         if (index == arr.length) {  
