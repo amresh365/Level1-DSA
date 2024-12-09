@@ -1,4 +1,4 @@
-package dsa.tapAcadmy.Array;
+package dsa.Array;
 
 public class FloorAndCeilOfArray {
 public static int Ceil(int key,int arr[])

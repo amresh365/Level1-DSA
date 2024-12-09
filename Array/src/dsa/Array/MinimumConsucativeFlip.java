@@ -1,4 +1,4 @@
-package dsa.tapAcadmy.Array;
+package dsa.Array;
 
 import java.util.Scanner;
 public class MinimumConsucativeFlip {
