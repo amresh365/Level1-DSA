@@ -1,7 +1,5 @@
 package dsa.Array;
-
 import java.util.Scanner;
-
 public class LeftRotationByOnePlace {
   public static void main(String[] args) {
    Scanner s=new Scanner(System.in);
